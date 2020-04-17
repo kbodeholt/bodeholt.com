@@ -40,7 +40,7 @@ plugins:
 author:
   name   : "Kristian Bodeholt"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Father² & Husband, Pragmatic Technologist, IT Security (CISSP, CEH) Viking & Danish Army Veteran. Connected since 28.8k. Opinions are my own."
+  bio    : "Father² & Husband, Pragmatic Technologist, IT Security (CISSP, CEH) Viking & Danish Army Veteran. Connected since 28.8k."
   links:
     - label: "E-mail"
       icon: "fas fa-fw fa-envelope"
