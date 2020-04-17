@@ -40,24 +40,27 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Ramblings from a Security Viking."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://bodeholt.com"
+    - label: "E-mail"
+      icon: "fas fa-fw fa-envelope
+      url: "mailto:kristian@bodeholt.com
+    - label: "LinkedIn
+      icon: "fab fa-fw fa-linkedin
+      url: "https://twitter.com/bodeholt"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/bodeholt"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-github-square"
       url: "https://github.com/kbodeholt"
     - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://instagram.com/kbodeholt"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/kristian.bodeholt"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/kbodeholt"
 
 footer:
-  links:
+ # links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
