@@ -40,10 +40,10 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Ramblings from a Security Viking."
   links:
-    - label: "Email"
+    - label: "E-mail"
       icon: "fas fa-fw fa-envelope
       url: "mailto:kristian@bodeholt.com
-    - label: "LinkedIn
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin
       url: "https://twitter.com/bodeholt"
     - label: "Twitter"
