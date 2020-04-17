@@ -48,7 +48,7 @@ author:
       url: "mailto:kristian@bodeholt.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://twitter.com/bodeholt"
+      url: "https://www.linkedin.com/in/kristianbodeholt"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/bodeholt"
@@ -64,6 +64,15 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/kbodeholt"
+      
+social:
+  type:  person
+  name:  Kristian Bodeholt
+  links:
+    - "https://twitter.com/bodeholt"
+    - "https://www.linkedin.com/in/kristianbodeholt/"
+    - "https://www.facebook.com/kristian.bodeholt"
+    - "https://instagram.com/kbodeholt"
 
 defaults:
   # _posts
