@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/kbodeholt
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.bodeholt.com
+  * I am kbodeholt (https://keybase.io/kbodeholt) on keybase.
+  * I have a public key ASC-rL7T5AFkodvxPRLm5VWY3BeLyDL1Da7M46azbtmDKAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120efb8c082091f504d519c1325e8e543d75888fb7f83ee2e0a9b1177c90bf827940a",
+      "host": "keybase.io",
+      "kid": "0120beacbed3e40164a1dbf13d12e6e55598dc178bc832f50daecce3a6b36ed983280a",
+      "uid": "3135570f7b4fadba1ae153b81b438219",
+      "username": "kbodeholt"
+    },
+    "merkle_root": {
+      "ctime": 1587188704,
+      "hash": "45d0bd7d0e9d7191aa900b86c48a5e6e5fd57e974f1ba5cea04122827d7ece48c8c1417f75995846bbcc71078f339b2bcb0b0bd50335da5ba60f1328705e424c",
+      "hash_meta": "c06c3ad26d9d3fb4c38fab38bb092eee6459aa311392b2965e755ad18e6a13b4",
+      "seqno": 15965126
+    },
+    "service": {
+      "entropy": "2F3dKKt/ms4tsMUBGLyv8mXV",
+      "hostname": "www.bodeholt.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.4.0"
+  },
+  "ctime": 1587188723,
+  "expire_in": 504576000,
+  "prev": "7098ed475ffb0286982f701a12dd3427d8d09fb4da034cb78fb65e3689fb5cb2",
+  "seqno": 49,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgvqy+0+QBZKHb8T0S5uVVmNwXi8gy9Q2uzOOms27ZgygKp3BheWxvYWTESpcCMcQgcJjtR1/7AoaYL3AaEt00J9jQn7TaA0y3j7ZeNon7XLLEIPinPh127e+Wlz/IVthfvj+yft9VhvKfpcQS+/lHNilRAgHCo3NpZ8RA+YOh4wXAwHiGq0QuPnU0jnvTUz7+apBMsN2tVeuDapGjElRndu4nODJfo2KM44mKBiZsfMiFefZ92jQx4gi+A6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPnLeshb2NrpPEod8wZn9Yby9uQWILpjza1/erAXhvdQo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kbodeholt
+
+==================================================================
