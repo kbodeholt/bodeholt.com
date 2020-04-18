@@ -64,7 +64,7 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/kristian.bodeholt"
     - label: "SnapChat"
-      icon: "fab fa-fw snapchat-square"
+      icon: "fab fa-fw fa-snapchat-square"
       url: "https://www.snapchat.com/add/kbodeholt"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
