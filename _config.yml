@@ -66,6 +66,12 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/kbodeholt"
+    - label: "Pinterest"
+      icon: "fab fa-fw fa-pinterest-square"
+      url: "https://www.pinterest.com/kbodeholt"
+    - label: "TripAdvisor"
+      icon: "fab fa-fw fa-tripadvisor"
+      url: "https://www.tripadvisor.dk/Profile/kbodeholt"
       
 social:
   type:  person
