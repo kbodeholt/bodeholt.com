@@ -1,7 +1,6 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "About Kristian Bodeholt."
 author_profile: false
 ---
 
