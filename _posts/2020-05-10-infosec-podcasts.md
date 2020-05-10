@@ -6,13 +6,9 @@ tags:
   - Media
 ---
 
-Information Security Podcasts for Infomartion Security Professionals
+Part of my daily routine is listening to podcasts since I have almost an hour commute by car to and from work, depending on the traffic situation. While Twitter is a great resource to be on top on what happening in Information Security, I think podcasts gives me something else that simple fast paced news cannot, deep dives, discussions, time to reflect etc. So, I have tried to create a collection of different InfoSec podcasts that I like and are worth checking out, my favorite for casual listening is Darknet Diaries by Jack Rhysider.
 
 ----
-
-# Information Security Podcasts
-
-Part of my daily routine is listening to podcasts since I have almost an hour commute by car to and from work, depending on the traffic situation. While Twitter is a great resource to be on top on what happening in Information Security, I think podcasts gives me something else that simple fast paced news cannot, deep dives, discussions, time to reflect etc. So, I have tried to create a collection of different InfoSec podcasts that I like and are worth checking out, my favorite for casual listening is Darknet Diaries by Jack Rhysider.
 
 **Disclaimer:** I created this list from a variety of sources, the links may be incorrect, out of date, or dead.    
 Send me a PM or create a pull request to this post on github to get it corrected. {: .notice--info}
