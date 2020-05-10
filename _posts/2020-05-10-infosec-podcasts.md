@@ -10,8 +10,7 @@ Part of my daily routine is listening to podcasts since I have almost an hour co
 
 ----
 
-**Disclaimer:** I created this list from a variety of sources, the links may be incorrect, out of date, or dead.    
-Send me a PM or create a pull request to this post on github to get it corrected.
+**Disclaimer:** I created this list from a variety of sources, the links may be incorrect, out of date, or dead. Send me a PM or create a pull request to this post on github to get it corrected.
 {: .notice--info}
 
 # Getting into InfoSec
