@@ -60,18 +60,6 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/kristian.bodeholt"
-    - label: "SnapChat"
-      icon: "fab fa-fw fa-snapchat-square"
-      url: "https://www.snapchat.com/add/kbodeholt"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/kbodeholt"
-    - label: "Pinterest"
-      icon: "fab fa-fw fa-pinterest-square"
-      url: "https://www.pinterest.com/kbodeholt"
-    - label: "TripAdvisor"
-      icon: "fab fa-fw fa-tripadvisor"
-      url: "https://www.tripadvisor.dk/Profile/kbodeholt"
       
 social:
   type:  person
@@ -80,7 +68,6 @@ social:
     - "https://twitter.com/bodeholt"
     - "https://www.linkedin.com/in/kristianbodeholt/"
     - "https://www.facebook.com/kristian.bodeholt"
-    - "https://instagram.com/kbodeholt"
 
 defaults:
   # _posts
