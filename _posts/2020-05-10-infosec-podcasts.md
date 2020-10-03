@@ -21,7 +21,7 @@ Part of my daily routine is listening to podcasts since I have almost an hour co
 **Getting into InfoSec by Ayman Elsawah**    
 [https://gettingintoinfosec.com/](https://gettingintoinfosec.com/)
 
-# InfoSec Stories / Discussions
+# InfoSec Stories & Discussions
 
 **Darknet Diaries by Jack Rhysider**    
 [https://darknetdiaries.com/](https://darknetdiaries.com/)
