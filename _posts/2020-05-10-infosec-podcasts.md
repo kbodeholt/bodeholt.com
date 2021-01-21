@@ -39,7 +39,13 @@ Part of my daily routine is listening to podcasts since I have almost an hour co
 [http://podcast.wh1t3rabbit.net/](http://podcast.wh1t3rabbit.net/)
 
 **The Social-Engineer Podcast**    
-[https://www.social-engineer.org/category/podcast/](https://www.social-engineer.org/category/podcast/)
+[https://www.social-engineer.org/category/podcast/](https://www.social-engineer.org/category/podcast/)   
+
+**The CyberWire Podcast Series**    
+[https://thecyberwire.com/podcasts](https://thecyberwire.com/podcasts)  
+
+**Security Weekly**   
+[https://securityweekly.com/shows/](https://securityweekly.com/shows/)  
 
 # Organizations
 
