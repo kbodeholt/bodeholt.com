@@ -6,7 +6,7 @@ tags:
   - Media
 ---
 
-Part of my daily routine is listening to podcasts since I have almost an hour commute to work, depending on the traffic situation. While Twitter is a great resource to be on top on what is happening in Information Security and the threat landscape in general, I think podcasts gives me something else that simple fast paced news cannot: deep dives, discussions, time to reflect etc. So, I have tried to create a collection of different InfoSec podcasts that I like and are worth checking out, my favorite "must listen" is Darknet Diaries by Jack Rhysider.
+Part of my daily routine is listening to podcasts since I have almost an hour commute to work, depending on the traffic situation. While Twitter is a great resource to be on top on what is happening in Information Security and the threat landscape in general, I think podcasts gives me something else that simple fast paced news cannot: deep dives, discussions, time to reflect etc. So, I have tried to create a collection of different InfoSec podcasts that I like and are worth checking out, my favorite "must listen" is Darknet Diaries by Jack Rhysider. Test Test Test
 
 ----
 
