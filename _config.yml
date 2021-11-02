@@ -7,8 +7,8 @@ title: Security Ramblings
 title_separator: "|"
 email: kristian@bodeholt.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Security Blog by Kristian Bodeholt
-url: "https://www.bodeholt.com"
+  Security Ramblings by Kristian Bodeholt
+url: "https://bodeholt.com"
 twitter_username: bodeholt
 github_username: kbodeholt
 minimal_mistakes_skin: default
