@@ -1,5 +1,5 @@
 ---
-title: "VSec Article - Using security.txt to improve communication and collaboration with the infosec community"
+title: "Using security.txt to improve communication and collaboration with the infosec community (VSec Article)"
 categories:
   - Blog
 tags:
