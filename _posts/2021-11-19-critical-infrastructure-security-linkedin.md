@@ -4,5 +4,5 @@ categories:
   - Blog
 tags:
   - Link
-link: https://www.linkedin.com/feed/update/urn:li:ugcPost:6867133714309136384
+link: https://www.linkedin.com/pulse/danmark-som-digital-europ%C3%A6isk-mester-men-hvad-med-kristian-bodeholt
 ---
