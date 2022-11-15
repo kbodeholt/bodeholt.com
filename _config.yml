@@ -52,7 +52,7 @@ author:
       url: "https://twitter.com/bodeholt"
     - label: "Mastodon"
       icon: "fa-brands fa-mastodon"
-      url: "rel="me" href="https://infosec.exchange/@kbodeholt"
+      url: "https://infosec.exchange/@kbodeholt"
     - label: "GitHub"
       icon: "fab fa-fw fa-github-square"
       url: "https://github.com/kbodeholt"
